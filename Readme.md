@@ -3,7 +3,7 @@
 
 Hi 🖖🏽 this is an **clickup filter with colors effect**, The project was made with React Native using **Expo** and **Typescript**
 
-![Gif ClickUp](https://github.com/felipeamodio/filter-clickup/blob/master/clickup.gif)
+![Gif ClickUp](https://github.com/felipeamodio/filter-clickup/blob/main/clickup.gif)
 
 ## Functionality
 The project's functionality is very simple, it simulates a horizontal filter at the top of the page, and when we click on the filter options it **changes the background color** based on the color of each of the filter options.
